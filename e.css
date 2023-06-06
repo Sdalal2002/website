@@ -1,0 +1,16 @@
+@media(max-width:479px){
+    #features{
+        margin-bottom: 270px;
+    }
+   #registration .form{
+    font-size:5px;
+   }
+   .ourteam {
+    height:1204px !important;
+   }
+}
+@media(max-width:766px){
+    .ourteam{
+        height:1300px !important;
+    }
+}
